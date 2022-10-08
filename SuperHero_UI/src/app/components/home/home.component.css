@@ -1,0 +1,16 @@
+div.container,
+table {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  width: 10rem;
+  padding: 5px;
+}
